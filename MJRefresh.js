@@ -78,7 +78,7 @@ MJRefresh.propTypes={
     onPulling:PropTypes.func,
     ...ViewPropTypes
 }
-export const ScrollView = MJScrollView;
+export const MScrollView = MJScrollView;
 export const ListView = MJListView;
 export const FlatList = MJFlatlist;
 export default MJRefresh;
